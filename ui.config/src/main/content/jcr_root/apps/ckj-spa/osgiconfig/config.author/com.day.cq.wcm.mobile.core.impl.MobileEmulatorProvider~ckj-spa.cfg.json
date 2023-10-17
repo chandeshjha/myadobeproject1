@@ -1,0 +1,6 @@
+{
+  "mobile.resourceTypes": [
+    "ckj-spa/components/page"
+  ],
+  "README": "Indicate which page resource types should display the mobile emulators."
+}

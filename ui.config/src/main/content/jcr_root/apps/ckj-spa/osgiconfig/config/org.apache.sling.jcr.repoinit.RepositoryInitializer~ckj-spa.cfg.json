@@ -1,0 +1,7 @@
+{
+    "scripts": [
+        "create path (sling:OrderedFolder) /content/dam/ckj-spa",
+        "create path (nt:unstructured) /content/dam/ckj-spa/jcr:content",
+        "set properties on /content/dam/ckj-spa/jcr:content\n  set cq:conf{String} to /conf/ckj-spa\n  set jcr:title{String} to \"CKJWorld SPA\"\nend"
+    ]
+}

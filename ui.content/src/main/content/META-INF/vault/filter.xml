@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/ckj-spa" mode="merge"/>
+    <filter root="/content/ckj-spa" mode="merge"/>
+    <filter root="/content/dam/ckj-spa" mode="merge">
+        <exclude pattern="/content/dam/ckj-spa(/.*)?"/>
+        <include pattern="/content/dam/ckj-spa/jcr:content(/.*)?"/>
+    </filter>
+    <filter root="/content/dam/ckj-spa/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/ckj-spa" mode="merge"/>
+</workspaceFilter>
