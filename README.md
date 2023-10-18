@@ -129,4 +129,4 @@ The project comes with the auto-public repository configured. To setup the repos
 	
 ## CKJ TESTING FOR GITHUB ACTION##
 ##END##
-WE are only testing 
+WE are only testing within the folder to make sure that the changes are correct
