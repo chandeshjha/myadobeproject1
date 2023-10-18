@@ -130,3 +130,42 @@ The project comes with the auto-public repository configured. To setup the repos
 ## CKJ TESTING FOR GITHUB ACTION##
 ##END##
 WE are only testing within the folder to make sure that the changes are correct
+
+A ClientLib will consist of the following files and directories:
+
+- `css/`: CSS files which can be requested in the HTML
+- `css.txt` (tells AEM the order and names of files in `css/` so they can be merged)
+- `js/`: JavaScript files which can be requested in the HTML
+- `js.txt` (tells AEM the order and names of files in `js/` so they can be merged
+- `resources/`: Source maps, non-entrypoint code chunks (resulting from code splitting), static assets (e.g. icons), etc.
+
+## Maven settings
+
+The project comes with the auto-public repository configured. To setup the repository in your Maven settings, refer to:
+
+    http://helpx.adobe.com/experience-manager/kb/SetUpTheAdobeMavenRepository.html
+
+	
+	
+## CKJ TESTING FOR GITHUB ACTION##
+##END##
+WE are only testing within the folder to make sure that the changes are correct
+A ClientLib will consist of the following files and directories:
+
+- `css/`: CSS files which can be requested in the HTML
+- `css.txt` (tells AEM the order and names of files in `css/` so they can be merged)
+- `js/`: JavaScript files which can be requested in the HTML
+- `js.txt` (tells AEM the order and names of files in `js/` so they can be merged
+- `resources/`: Source maps, non-entrypoint code chunks (resulting from code splitting), static assets (e.g. icons), etc.
+
+## Maven settings
+
+The project comes with the auto-public repository configured. To setup the repository in your Maven settings, refer to:
+
+    http://helpx.adobe.com/experience-manager/kb/SetUpTheAdobeMavenRepository.html
+
+	
+	
+## CKJ TESTING FOR GITHUB ACTION##
+##END##
+WE are only testing within the folder to make sure that the changes are correct
